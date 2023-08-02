@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "590444558813",
+    "project_id": "neopetapp",
+    "storage_bucket": "neopetapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590444558813:android:546c373bf23bb76f7cde34",
+        "android_client_info": {
+          "package_name": "com.NeoPet.agenda_neo_pet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590444558813-np5fg0d6alqkftkijjtk6sgcjn9cioum.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.NeoPet.agenda_neo_pet",
+            "certificate_hash": "b4f4e1a08861d77c35196929474a7dc0888af31f"
+          }
+        },
+        {
+          "client_id": "590444558813-rff4fs57h1mb6irbjqpnm10fs3ueapmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1aAPvgzEph5GfOLqUpeavF90BOzDWgeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590444558813-rff4fs57h1mb6irbjqpnm10fs3ueapmn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

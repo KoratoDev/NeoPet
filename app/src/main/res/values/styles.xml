@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Color principal -->
+        <item name="colorPrimary">#00BFFF</item>
+
+        <!-- Color de la barra de estado -->
+        <item name="colorPrimaryDark">#009ACD</item>
+
+        <!-- Color del texto en la barra de acción -->
+        <item name="android:textColorPrimary">@android:color/white</item>
+
+        <!-- Color del texto en los elementos flotantes (Floating Labels) -->
+        <item name="colorAccent">#00BFFF</item>
+
+        <!-- Estilo de la barra de acción -->
+        <item name="android:actionBarStyle">@style/AppTheme.ActionBar</item>
+    </style>
+
+    <style name="AppTheme.ActionBar" parent="@style/Widget.AppCompat.ActionBar">
+        <item name="android:background">#00BFFF</item>
+    </style>
+</resources>
